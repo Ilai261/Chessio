@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Ilai261/Chessio_Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Ilai261/Chessio_Server.git
