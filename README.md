@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/8ca7d189-26ab-44af-8813-0c73457b5d86)
+
+
+
 This repo contains the entire project, including resources and pom.xml files etc. 
 The client program is in the client repo, and the server program is in the server repo. They are independent of each other.
 
