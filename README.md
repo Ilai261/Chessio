@@ -1,5 +1,5 @@
 This repo contains the entire project, including resources and pom.xml files etc. 
-The client is in the Chessio_Client repo, and the server is in the Chessio_Server repo. They are independent of each other.
+The client is in the client repo, and the server is in the server repo. They are independent of each other.
 
 To compile and run both programs, you can use maven as the pom.xml files are included.
 before packging and running the programs, you should set the application.properties file in both according to your setup (located under src/main/resources).
