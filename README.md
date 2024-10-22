@@ -17,7 +17,7 @@ password - abc123
 mysql port - 3306
 schema name - chessio
 
-keep all of the other details the same as they are important for running the server correctly.
+keep all of the other settings the same as they are important for running the server correctly.
 you may change your server port in this file as said before, in the example file it is set to 44444.
 
 and that's it! Now just make sure that you can connect to the mysql schema and that mysql is running in the background, and the server + client should work.
